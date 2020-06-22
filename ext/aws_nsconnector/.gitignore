@@ -1,0 +1,6 @@
+.pypirc
+*.pyc
+.sync/*
+AWS-NSConnector.egg-info/*
+dist/*
+*/__pycache__/*

@@ -1,0 +1,6 @@
+.pypirc
+*.pyc
+.sync/*
+DataWald-NSAgency.egg-info/*
+dist/*
+*/__pycache__/*

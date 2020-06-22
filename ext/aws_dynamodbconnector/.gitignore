@@ -1,0 +1,6 @@
+.pypirc
+*.pyc
+.sync/*
+AWS_DynamoDBConnector.egg-info/*
+dist/*
+*/__pycache__/*

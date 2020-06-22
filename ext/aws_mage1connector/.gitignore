@@ -1,0 +1,5 @@
+.pypirc
+*.pyc
+.sync/*
+AWS-Mage1Connector.egg-info/*
+dist/*

@@ -1,0 +1,6 @@
+.pypirc
+*.pyc
+.sync/*
+DataWald-Frontend.egg-info/*
+dist/*
+*/__pycache__/*

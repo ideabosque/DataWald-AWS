@@ -1,0 +1,6 @@
+.pypirc
+*.pyc
+.sync/*
+DataWald-Mage2Agency.egg-info/*
+dist/*
+*/__pycache__/*

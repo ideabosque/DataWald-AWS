@@ -1,0 +1,13 @@
+.pypirc
+*/.pypirc
+*.pyc
+.sync/*
+*/env/*
+*/__pycache__/*
+deployment/*.zip
+qa/*
+*.egg-info/*
+*/dist/*
+.vscode/*
+*/.env
+

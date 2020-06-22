@@ -1,0 +1,6 @@
+.pypirc
+*.pyc
+.sync/*
+DataWald-SQSAgency.egg-info/*
+dist/*
+*/__pycache__/*

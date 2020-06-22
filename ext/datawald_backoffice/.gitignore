@@ -1,0 +1,6 @@
+.pypirc
+*.pyc
+.sync/*
+DataWald-BackOffice.egg-info/*
+dist/*
+*/__pycache__/*

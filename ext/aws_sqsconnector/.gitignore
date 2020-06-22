@@ -1,0 +1,6 @@
+.pypirc
+*.pyc
+.sync/*
+AWS_SQSConnector.egg-info/*
+dist/*
+*/__pycache__/*
